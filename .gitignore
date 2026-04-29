@@ -1,0 +1,11 @@
+# Whitelist-style : par défaut TOUT est ignoré. On whiteliste uniquement
+# ce qui DOIT être sur le repo GitHub public. Si un fichier se retrouve
+# ici par erreur (ex: un src/vrsafe.js copié-collé), il est ignoré par
+# défaut — aucun risque de leak accidentel via `git add .`.
+*
+
+# Seuls ces fichiers sont autorisés
+!.gitignore
+!vrsafe.user.js
+!README.md
+!LICENSE
