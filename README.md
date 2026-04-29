@@ -1,7 +1,5 @@
 # VrSafe
 
-Userscript multi-modules pour Grepolis.
-
 ## Installation
 
 1. Installer [Tampermonkey](https://www.tampermonkey.net/) (Chrome / Firefox / Edge)
@@ -11,16 +9,4 @@ Userscript multi-modules pour Grepolis.
 
 ## Mise à jour
 
-Automatique. Tampermonkey vérifie périodiquement et propose la nouvelle version. Un bandeau apparaît aussi en jeu si une maj est dispo.
-
-## Modules inclus
-
-- **Travel Time** — calcul de temps de trajet
-- **Bandit** — automatisation camp de bandits (attaque + collecte)
-- **Identify** — tracking d'activité joueur
-- **Calage** — optimisation de calage d'attaques
-- **Builder / FreeBat** — files de construction automatiques
-
-## Support
-
-Pour les bugs ou questions, contacter l'auteur en jeu.
+Automatique
