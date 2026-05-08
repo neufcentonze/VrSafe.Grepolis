@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         VrSafeDev
+// @name         VrSafe
 // @namespace    https://grepolis.com
 // @version      1.1
 // @description  Suite unifiée — shell à onglets + Travel + Bandit + Identify + Calage + Builder/FreeBat + Auth/Config
